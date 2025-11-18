@@ -18,8 +18,6 @@ export default async function Home({ searchParams }: { searchParams: { search: s
 
   const currentDate = new Date().toLocaleDateString('en-gb', { dateStyle: 'full' })
 
-  console.log(data)
-
   return (
     <div className="relative h-screen w-full overflow-hidden">
       {/* Full-screen map as background */}
