@@ -1,0 +1,26 @@
+[00:00:00.691] Server  LOG      ✓ Ready in 484ms
+[00:00:08.869] Server  LOG     undefined
+[00:00:08.983] Server  ERROR    ⨯ Error: Error: No response from api
+[00:00:09.367] Browser ERROR   uncaughtError: Error: Error: No response from api
+[00:00:12.739] Server  LOG     undefined
+[00:00:12.775] Server  ERROR    ⨯ Error: Error: No response from api
+[00:00:13.000] Browser ERROR   uncaughtError: Error: Error: No response from api
+[00:00:21.730] Server  LOG     albany
+[00:00:21.794] Server  ERROR    ⨯ Error: Error: No response from api
+[00:00:21.991] Browser ERROR   uncaughtError: Error: Error: No response from api
+[00:00:24.236] Server  LOG     albany
+[00:00:24.272] Server  ERROR    ⨯ Error: Error: No response from api
+[00:00:24.489] Browser ERROR   uncaughtError: Error: Error: No response from api
+[00:07:19.688] Server  LOG        Reload env: .env
+[00:07:19.771] Server  LOG     albany
+[00:07:19.857] Server  ERROR    ⨯ Error: Error: No response from api
+[00:07:21.098] Browser ERROR   uncaughtError: Error: Error: No response from api
+[00:07:36.391] Server  LOG        Reload env: .env
+[00:07:36.473] Server  LOG     albany
+[00:07:36.582] Server  LOG     {}
+[00:07:39.754] Server  LOG     albany
+[00:07:39.788] Server  LOG     {}
+[00:07:46.237] Server  LOG     undefined
+[00:07:46.318] Server  LOG     {}
+[00:08:24.758] Server  LOG     london
+[00:08:24.834] Server  LOG     {}

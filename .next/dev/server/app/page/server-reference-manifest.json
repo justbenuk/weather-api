@@ -1,0 +1,20 @@
+{
+  "node": {
+    "4090f50d7f0dc7ac378cbd8730274b1aa0585e20d3": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/actions/weather-actions.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "fetchWatherAction",
+          "filename": "src/actions/weather-actions.tsx"
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "exportedName": "fetchWatherAction",
+      "filename": "src/actions/weather-actions.tsx"
+    }
+  },
+  "edge": {}
+}
